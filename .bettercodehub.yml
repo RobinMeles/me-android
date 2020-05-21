@@ -2,3 +2,4 @@ component_depth: 1
 
 exclude:
   - /data/src/main/java/io/forus/me/android/data/entity/validators/.*
+  - /presentation/src/main/java/io/forus/me/android/presentation/view/screens/vouchers/list/VouchersPresenter.kt
