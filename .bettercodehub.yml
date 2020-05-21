@@ -5,3 +5,4 @@ exclude:
   - /data/src/main/java/io/forus/me/android/data/entity/validators/.*
   - /presentation/src/main/java/io/forus/me/android/presentation/view/screens/.*
   - /data/src/main/java/io/forus/me/android/data/entity/vouchers/response/.*
+  - /data/src/main/java/io/forus/me/android/data/entity/records/response/.*
