@@ -1,1 +1,4 @@
 component_depth: 1
+
+exclude:
+  - /data/src/main/java/io/forus/me/android/data/entity/validators/.*
