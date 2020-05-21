@@ -6,5 +6,3 @@ exclude:
   - /presentation/src/main/java/io/forus/me/android/presentation/view/screens/account/assigndelegates/email/RestoreByEmailFragment.kt
   - /presentation/src/main/java/io/forus/me/android/presentation/view/component/buttons/Button.kt
   - /presentation/src/main/java/io/forus/me/android/presentation/view/screens/account/restore_account_success/RestoreAccountSuccessFragment.kt
-  - /presentation/src/main/java/io/forus/me/android/presentation/view/screens/qr/QrActionProcessor.kt
-  - /presentation/src/main/java/io/forus/me/android/presentation/view/screens/records/item/validations/ValidationAdapter.kt
